@@ -372,3 +372,9 @@ a.buttonSeeAll:hover {
 
 }
 
+.info-store {
+  min-height: 125px!important;
+  /* outline: 1px solid red; */
+  margin: 0 0 10px 0;
+}
+
