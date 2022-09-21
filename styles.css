@@ -363,3 +363,12 @@ a.buttonSeeAll:hover {
   margin: 0 auto;
 }
 
+.images-stores {
+
+  width: 300px; 
+  height: 250px; 
+  object-fit: cover;
+  margin: 10px 0;
+
+}
+
